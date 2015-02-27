@@ -2,7 +2,6 @@ Last updated: 01/16/2015
 
 A curated list of Dataset Repos.
 
-I am looking forward to extend this little collection! If you don't find your favorite datasets listed here, just let me know (via [email](mailto:mail@sebastianraschka.com) or [twitter](https://twitter.com/rasbt)) and I will add them in no-time! 
 
 <br>
 ## Sections
